@@ -77,7 +77,7 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/fabiogiacobe">
+        href="https://www.linkedin.com/in/fabiogiacobe/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
